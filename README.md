@@ -6,7 +6,7 @@
 
 > A modern, creative portfolio website showcasing 8+ years of high-scale software engineering expertise with a code-inspired design aesthetic.
 
-**Live URL**: `https://[your-username].github.io`
+**Live URL**: `https://divyanshu.sankhwar.github.io`
 
 ---
 
